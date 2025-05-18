@@ -6,6 +6,9 @@ Visão Geral do Projeto
 
 Este projeto foi desenvolvido como parte da Imersão em Inteligência Artificial, 3ª Edição, uma iniciativa da Alura em parceria com o Google. O objetivo principal é criar um aplicativo web que permita aos usuários rastrear suas informações de macro nutrientes (proteínas, carboidratos, gorduras, fibras e açúcares) a partir dos alimentos que consomem. O aplicativo utiliza o modelo Gemini do Google para estimar os valores nutricionais a partir de descrições textuais dos alimentos.
 
+![Screenshot 2025-05-17 220357](https://github.com/user-attachments/assets/5ffd039b-7b6a-4175-a421-910d989ee644)
+
+
 Funcionalidades
 ---------------
 
